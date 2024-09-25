@@ -1,0 +1,7 @@
+Grafo do arquivo: ../graph_files/grafo_2.txt
+Quantidade de vertices: 968
+Numero de Arestas: 14204
+Grau mínimo: 2
+Grau máximo: 59
+Grau médio: 29.34710743801653
+Mediana de grau: 31.0
